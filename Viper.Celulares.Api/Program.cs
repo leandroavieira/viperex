@@ -15,6 +15,8 @@ namespace Viper.Celulares.Api
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+
+            var a = "Teste";
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
