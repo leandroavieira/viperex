@@ -1,2 +1,2 @@
-Alterado o arquivo para tratar conflito
+Alterado o arquivo para tratar conflito -- Só para dar treta
 Incluindo algo dentro do arquivo
