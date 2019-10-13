@@ -1,1 +1,2 @@
+Alterado o arquivo para tratar conflito
 Incluindo algo dentro do arquivo
