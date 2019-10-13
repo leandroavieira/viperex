@@ -1,2 +1,2 @@
-Alterado o arquivo para tratar conflito
+Alterado o arquivo para tratar conflito -- parte do conflito
 Incluindo algo dentro do arquivo
