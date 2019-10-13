@@ -1,2 +1,4 @@
 Alterado o arquivo para tratar conflito
 Incluindo algo dentro do arquivo
+Incluindo linha da TASK5
+
