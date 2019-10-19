@@ -9,3 +9,6 @@ Mas ainda é o maior campeão brasileiro
 
 Incluir mais coisas para usar o amend.
 putz faltou essa linha, vou ter que usar o amend.
+
+
+Alterado para entender a Fetch
